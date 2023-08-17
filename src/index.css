@@ -1,0 +1,18 @@
+
+.list-group {
+    border-radius: 0.25rem;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+
+.list-group-item {
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,.125);
+  color: #212529;
+  display: block;
+  padding: 0.5rem 1rem;
+  position: relative;
+  text-decoration: none;
+}
